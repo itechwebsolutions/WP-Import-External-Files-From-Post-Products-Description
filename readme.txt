@@ -3,6 +3,7 @@ Author: Isaac Glikson
 Email: isaac@itech-websolutions.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Link to github: https://github.com/itechwebsolutions/WP-Import-External-Files-From-Post-Products-Description
 
 == Description ==
 This plugin search for image or other file urls which exists inside all posts or products description and automatically upload external images to the media library and then replace the urls with the updated local url.
